@@ -8,7 +8,7 @@
 
 
 
- 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## What it does
 
 
@@ -27,7 +27,7 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 
 
 
- 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Installation
 
 
@@ -52,7 +52,7 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 
 
 
- 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Changelogs
 #### Changelog 15/05/2021
 - Added akshorty, ammocrate, antipersonnelmine, antitankmine, medkit, pushbomb, scope_leeenfield, sndbomb, trenchgun
@@ -86,7 +86,7 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 - Added RocketLauncher material instance
 
 
- 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Credits
 
 - Credits go to Davevillz's Pavlov VR for the original models in this package
