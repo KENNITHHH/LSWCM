@@ -1,4 +1,3 @@
-#LSWCM 2.7
 Loot Spawner with Colored Models and Vehicle Spawner with Colored Models
 
 
