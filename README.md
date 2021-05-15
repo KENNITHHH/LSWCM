@@ -1,23 +1,33 @@
-////////////////////////////////////////////////////////////////////////////////////////
-//Loot Spawner with Colored Models AND Vehicle Spawner with Colored Models (LSWCM 2.7)//
-////////////////////////////////////////////////////////////////////////////////////////
+# Loot Spawner with Colored Models and Vehicle Spawner with Colored Models
+
+
+Youtube Tutorial
+
+[![Pavlov VR - Set up my Loot Spawner with Colored Models - LSWCM](https://img.youtube.com/vi/oov2Kj2PoJc/0.jpg)](https://www.youtube.com/watch?v=oov2Kj2PoJc)
+
 
 //What it does
 
+
 When you use the original Loot Spawner, you have to guess how the weapons are facing.
 This toolkit adds a list of items you can pick from and when selecting for example an AK47, you will also see how its oriented.
+
 
 This gives the ability to have:
 - better placements of loot and Vehicles
 - easier way to select from an alphabetic list of items and weapons
 - spawning tanks seeing their size
 
+
 NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objects, the vehicle will NOT spawn when Colliding
 
 
 
 
+
+
 //Installation
+
 
 1. Copy the Content folder from inside "LSWCM2.7.zip" to your "/ProjectNameHere/" folder
 2. Open your project and load your level
@@ -27,13 +37,16 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 4. Open the "BP_LootSpawnerWM" and "BP_VehicleSpawnerWM" and press Compile and Save--IF the icon is orange.
 
 
+
 //To Spawn Items:
 1. Drag and Drop "BP_LootSpawnerWM" into your level
 2. Under the LSWCM category, select the "Loot to Spawn" you would like to spawn
 
+
 //To Spawn Tanks:
 1. Drag and Drop "BP_VehicleSpawnerWM into your level
 2. Under the VSWCM category, select the "Vehicle to Spawn" you would like to spawn
+
 
 
 
@@ -44,16 +57,19 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 - Added Teleporter, TTT C4, TTT Knife, (VSSM)
 - Updated M4 and SawedOff models
 
+
 //Changelog 13/02/2021
 - Added missing Weapon (Galil, not spawnable at this moment but it's coming)
 - Added the "Make Random List?" button, this enables Random Item Lists
 - Renamed all "Tank" names to "Vehicle"
 - Added ATV and Truck to BP_VehicleSpawnerWM
 
+
 //Changelog 23/12/2020
 - Added missing Weapons (DP27, VSS, SCAR20, Kriss Vector)
 - Optimised Blueprint (thanks Mark Dey aka Lance)
 - Added TankSpawner (Panzer, Sherman, T34)
+
 
 //Changelog 21/07/2020
 - Added the WW2 Weapons
@@ -71,8 +87,3 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 
 If you find any bugs or have any ideas for improvement, please let me know on Discord
 - KENNITHH#7175 -
-
-
-
-
-- KENNITHH
