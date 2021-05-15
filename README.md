@@ -31,9 +31,9 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 ## Installation
 
 
-1. Copy the Content folder from inside "LSWCM2.7.zip" to your "/ProjectNameHere/" folder
+1. Copy the Content folder your "/ProjectNameHere/" folder, NOT this Content inside your Content folder
 2. Open your project and load your level
-3. Move the Blueprints folder to your UGC folder (Don't forget to Fix Up Redirectors)
+3. Move the Blueprints folder to your UGC folder (then Fix Up Redirectors: Right click the Content folder and select Fix Up Redirectors)
 - DO NOT MOVE THE PROPS / MATERIALS FOLDER ! This will increase your filesize by atleast 200mb which is not needed since it's only in Editor
 - Right click the Content folder in editor and press Fix Up Redirectors
 4. Open the "BP_LootSpawnerWM" and "BP_VehicleSpawnerWM" and press Compile and Save--IF the icon is orange.
