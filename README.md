@@ -1,12 +1,15 @@
 # Loot Spawner with Colored Models and Vehicle Spawner with Colored Models
 
 
-Youtube Tutorial
+## Youtube Tutorial
 
 [![Pavlov VR - Set up my Loot Spawner with Colored Models - LSWCM](https://img.youtube.com/vi/oov2Kj2PoJc/0.jpg)](https://www.youtube.com/watch?v=oov2Kj2PoJc)
 
 
-//What it does
+
+
+ 
+## What it does
 
 
 When you use the original Loot Spawner, you have to guess how the weapons are facing.
@@ -24,9 +27,8 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 
 
 
-
-
-//Installation
+ 
+## Installation
 
 
 1. Copy the Content folder from inside "LSWCM2.7.zip" to your "/ProjectNameHere/" folder
@@ -38,23 +40,26 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 
 
 
-//To Spawn Items:
+### To Spawn Items:
 1. Drag and Drop "BP_LootSpawnerWM" into your level
 2. Under the LSWCM category, select the "Loot to Spawn" you would like to spawn
 
 
-//To Spawn Tanks:
+### To Spawn Tanks:
 1. Drag and Drop "BP_VehicleSpawnerWM into your level
 2. Under the VSWCM category, select the "Vehicle to Spawn" you would like to spawn
 
 
 
-//Changelog 15/05/2021
+
+ 
+## Changelogs
+#### Changelog 15/05/2021
 - Added akshorty, ammocrate, antipersonnelmine, antitankmine, medkit, pushbomb, scope_leeenfield, sndbomb, trenchgun
 - Changed naming of galil to galul, scar to scur, vss to vzz
 
 
-//Changelog 31/03/2021
+#### Changelog 31/03/2021
 - Added AR9, BallisticsShield, DetectiveSMG, DNAScanner, FlareGun, Flashlight Rifle, (Galil), Goldengun
 - Added Discombobulation Grenade, Healthstation, (Kriss Vector), Pistol and Rifle Laser, M16, Monocular
 - Added NewtonLauncher, Pipe, Pliers, RPG, Scope KAR98, Tec9 Surpressed, Helmet Skin Changer (US,SVT,GER)
@@ -62,27 +67,27 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 - Updated M4 and SawedOff models
 
 
-//Changelog 13/02/2021
+#### Changelog 13/02/2021
 - Added missing Weapon (Galil, not spawnable at this moment but it's coming)
 - Added the "Make Random List?" button, this enables Random Item Lists
 - Renamed all "Tank" names to "Vehicle"
 - Added ATV and Truck to BP_VehicleSpawnerWM
 
 
-//Changelog 23/12/2020
+#### Changelog 23/12/2020
 - Added missing Weapons (DP27, VSS, SCAR20, Kriss Vector)
 - Optimised Blueprint (thanks Mark Dey aka Lance)
 - Added TankSpawner (Panzer, Sherman, T34)
 
 
-//Changelog 21/07/2020
+#### Changelog 21/07/2020
 - Added the WW2 Weapons
 - Changed the material slightly
 - Added RocketLauncher material instance
 
 
-
-//Credits
+ 
+## Credits
 
 - Credits go to Davevillz's Pavlov VR for the original models in this package
 - Mark Dey (Lance) for helping me optimise this Blueprint
