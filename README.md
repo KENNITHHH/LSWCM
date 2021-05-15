@@ -12,14 +12,14 @@
 ## What it does
 
 
-When you use the original Loot Spawner, you have to guess how the weapons are facing.
-This toolkit adds a list of items you can pick from and when selecting for example an AK47, you will also see how its oriented.
+When you use the original Loot Spawner, you have to guess where the weapons are facing.
+This toolkit adds a list of items alphabetically you can pick from. When selecting for example the AK47, you will see the model itself and where it's pointing to.
 
 
 This gives the ability to have:
-- better placements of loot and Vehicles
+- better placements of Loot and Vehicles
 - easier way to select from an alphabetic list of items and weapons
-- spawning tanks seeing their size
+- spawning tanks, seeing their full model
 
 
 NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objects, the vehicle will NOT spawn when Colliding
