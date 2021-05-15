@@ -49,6 +49,10 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 
 
 
+//Changelog 31/03/2021
+- Added akshorty, ammocrate, antipersonnelmine, antitankmine, medkit, pushbomb, scope_leeenfield, sndbomb, trenchgun
+- Changed naming of galil to galul, scar to scur, vss to vzz
+
 
 //Changelog 31/03/2021
 - Added AR9, BallisticsShield, DetectiveSMG, DNAScanner, FlareGun, Flashlight Rifle, (Galil), Goldengun
