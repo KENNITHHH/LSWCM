@@ -2,6 +2,7 @@
 Loot Spawner with Colored Models
 Vehicle Spawner with Colored Models
 
+Youtube Tutorial
 [![Pavlov VR - Set up my Loot Spawner with Colored Models - LSWCM](https://img.youtube.com/vi/oov2Kj2PoJc/0.jpg)](https://www.youtube.com/watch?v=oov2Kj2PoJc)
 
 //What it does
