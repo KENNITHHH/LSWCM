@@ -54,6 +54,11 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Changelogs
+#### Changelog 06/06/2021
+- Added adrenaline syringe, bandage, bayonet leeenfield, bayonet trenchgun, scope mosin nagant, scope springfield, tranquilizer gun, tripalarm
+- Added tiger tank
+- Swapped syringe model
+
 #### Changelog 15/05/2021
 - Added akshorty, ammocrate, antipersonnelmine, antitankmine, medkit, pushbomb, scope_leeenfield, sndbomb, trenchgun
 - Changed naming of galil to galul, scar to scur, vss to vzz
