@@ -31,12 +31,12 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 ## Installation
 
 
-1. Copy the Content folder your "/ProjectNameHere/" folder, NOT this Content inside your Content folder
+1. Copy the Content folder into your "/ProjectNameHere/" folder, (NOT this Content inside your Content folder)
 2. Open your project and load your level
-3. Move the Blueprints folder to your UGC folder (then Fix Up Redirectors: Right click the Content folder and select Fix Up Redirectors)
+3. Move the Blueprints folder into your UGC folder
 - DO NOT MOVE THE PROPS / MATERIALS FOLDER ! This will increase your filesize by atleast 200mb which is not needed since it's only in Editor
-- Right click the Content folder in editor and press Fix Up Redirectors
-4. Open the "BP_LootSpawnerWM" and "BP_VehicleSpawnerWM" and press Compile and Save--IF the icon is orange.
+4. Right click the Content folder in editor and press Fix Up Redirectors
+(. Open the "BP_LootSpawnerWM" and "BP_VehicleSpawnerWM" and press Compile and Save--IF the icon is orange.
 
 
 
@@ -54,8 +54,13 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Changelogs
+#### Changelog 06/06/2021
+- Added Adrenaline Syringe, Bandage, Bayonet Lee-Enfield, Bayonet Trenchgun, Scope Mosin Nagant, Scope Springfield, Tranquilizer Gun, Tripalarm
+- Added Tiger tank
+- Swapped Syringe model
+
 #### Changelog 15/05/2021
-- Added akshorty, ammocrate, antipersonnelmine, antitankmine, medkit, pushbomb, scope_leeenfield, sndbomb, trenchgun
+- Added Shorty AK, Ammo Crate, Antipersonnel Mine, Antitank Mine, Medkit, Pushbomb, Scope Lee-Enfield, SND Bomb (not working at this moment), Trenchgun
 - Changed naming of galil to galul, scar to scur, vss to vzz
 
 
