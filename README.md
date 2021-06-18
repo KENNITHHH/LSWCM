@@ -54,6 +54,10 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Changelogs
+#### Changelog 18/06/2021
+- Added SKS, Reddot Pistol
+- Swapped Adrenaline Syringe and Trip Alarm model
+
 #### Changelog 11/06/2021
 - Added Canted Sight, Bayonet M1 Garand, Bayonet Mosin Nagant
 - Swapped WW2 Ammo Crate and Medkit model
