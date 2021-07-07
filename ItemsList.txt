@@ -1,8 +1,8 @@
 1911					//WW2_M1911
-57						//FiveSeven
+57					//FiveSeven
 acog					//Attachment_Acog
 adrenaline				//TheHidden_AdrenalineSyringe
-ak						//PP-19Bizon
+ak					//PP-19Bizon
 ak12					//AK-12
 ak47					//AK-47
 akshorty				//CYMA-AK47-Shorty
