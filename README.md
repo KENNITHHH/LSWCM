@@ -54,6 +54,19 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Changelogs
+#### Changelog 02/11/2021
+- Changed the Adrenaline model
+- Changed the Kar98 model
+- Changed the M4 model
+- Changed the Painkiller model
+- Changed the Teleporter model
+- Changed the TTT Knife model
+- Added Kar98 Bayonet
+- Added Springfield Bayonet
+- Added Infinitum Flash Grenade
+- Added Infinitum Grenade
+- Added Tranquilizer model
+
 #### Changelog 18/06/2021
 - Added SKS, Reddot Pistol
 - Swapped Adrenaline Syringe and Trip Alarm model
