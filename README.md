@@ -5,6 +5,8 @@
 
 [![Pavlov VR - Set up my Loot Spawner with Colored Models - LSWCM](https://img.youtube.com/vi/oov2Kj2PoJc/0.jpg)](https://www.youtube.com/watch?v=oov2Kj2PoJc)
 
+[![Pavlov VR - How to Update LSWCM](https://img.youtube.com/vi/EMzMbprKCig/0.jpg)](https://www.youtube.com/watch?v=EMzMbprKCig)
+
 
 
 
