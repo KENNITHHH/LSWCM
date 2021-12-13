@@ -75,8 +75,8 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 - Changed the TTT Knife model
 - Added Kar98 Bayonet
 - Added Springfield Bayonet
-- Added Infinitum Flash Grenade
-- Added Infinitum Grenade
+- Added Aurora Flash Grenade
+- Added Aurora Grenade
 - Added Tranquilizer model
 
 #### Changelog 18/06/2021
