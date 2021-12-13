@@ -56,6 +56,16 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Changelogs
+#### Changelog 13/12/2021
+- Added the Kubelwagen (kubel)
+- Added the Willys Jeep (willys)
+- Added Hunting Rifle (hunting)
+- Added the WW2 Kabar Knife (ww2knife)
+- Added the WW2 Syringe (ww2syringe)
+- Added the WW2 Medkit (ww2medkit)
+- Replaced the Syringe model
+- Replaced the Medkit model
+
 #### Changelog 02/11/2021
 - Changed the Adrenaline model
 - Changed the Kar98 model
