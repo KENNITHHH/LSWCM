@@ -56,6 +56,22 @@ NOTE: If your Vehicle doesn't spawn, make sure it's not colliding with any objec
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Changelogs
+#### Changelog 23/06/2023
+- Added the Hypnotiser
+- Added the PKM
+- Added the Skorpion
+- Added the Snowball
+- Added the Motorcycle
+- Added the WW2 Bandage
+- Added the WW2 Painkillers
+- Changed the BP_LootSpawnerWM
+- Reorganized the Datatables and Enumerations
+- Changed the Static Mesh to use a "Soft Object Reference"
+- Added the long due Random Loot functionality
+- Renamed the Galil mesh to Galul
+- Renamed the Scar mesh to Scur
+- Renamed the VSS mesh to VZZ
+
 #### Changelog 13/12/2021
 - Added the Kubelwagen (kubel)
 - Added the Willys Jeep (willys)
