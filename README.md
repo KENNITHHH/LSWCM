@@ -3,6 +3,9 @@
 
 ## Youtube Tutorial
 
+
+[![Pavlov VR - LSWCM Tutorial - 5.1](https://i.ytimg.com/vi/xwvF7c6Tf_g/maxresdefault.jpg)](https://youtu.be/xwvF7c6Tf_g)
+
 [![Pavlov VR - Set up my Loot Spawner with Colored Models - LSWCM](https://img.youtube.com/vi/oov2Kj2PoJc/0.jpg)](https://www.youtube.com/watch?v=oov2Kj2PoJc)
 
 [![Pavlov VR - How to Update LSWCM](https://img.youtube.com/vi/EMzMbprKCig/0.jpg)](https://www.youtube.com/watch?v=EMzMbprKCig)
